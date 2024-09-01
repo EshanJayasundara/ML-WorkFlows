@@ -18,6 +18,6 @@
 14. Apply sampling techniques
 15. Model train and test with best hyper parameters
 
-- dataset folder
+- link to dataset _imbalanced_insurance_data.csv_
 
   https://drive.google.com/drive/folders/1kAx8z9xLSGU9g2nBF_tPK127tZgYRU8H?usp=sharing
