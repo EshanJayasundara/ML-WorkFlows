@@ -1,32 +1,6 @@
-<style>
-  .title {
-    font-family: 'Times New Roman';
-    font-size: 25px;
-  }
-  .sub-title {
-    font-family: 'Times New Roman';
-    font-size: 20px;
-  }
-  .normal {
-    font-family: 'Times New Roman';
-    font-size: 15px;
-  }
-</style>
+# Simple-ML-Worklow-Demo
 
-<div class="title">
-
-Simple-ML-Worklow-Demo
-
-<hr>
-</div>
-
-<div class="sub-title">
-
-Learning from imbalanced insurance data
-
-</div>
-
-<div class="normal">
+## Learning from imbalanced insurance data
 
 1. Import required libraries
 2. Locate the dataset
@@ -43,5 +17,3 @@ Learning from imbalanced insurance data
 13. Hyperparameter tuning for selected model
 14. Apply sampling techniques
 15. Model train and test with best hyper parameters
-
-</div>
